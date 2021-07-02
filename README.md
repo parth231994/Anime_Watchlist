@@ -1,7 +1,5 @@
 # Anime-Watchlist
 This project is created for Web Engeneering II.
-Students:   Tobias Hellweg (17832)
-		    Sunidhi Thakur (18018)
 		    
 This project aims to solve the problem of diffrent series being split across multiple streaming-sites by providing a place where all the bookmarks can be stored, with some Quality of Life features such as single-click access to stream a particular episode and an Episode counter to keep track of your progress.
 This Project is aimed mainly towards Anime-fans, but can be used for any online media.
