@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #778899 ;
+  /* #B0C4DE */
+   min-height: 100vh;
+  display: flex;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+P,h1,h3,h4,h5{
+  text-align: center;
+  font-weight: 500;
+  color: black;
+  font-family: 'Fira Sans', sans-serif;
+  margin-top: 3%;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+
+body, html, .App, #root, .auth-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.paper{
+  color: red;
+}
+
+.MuiButtonBase-root {
+  margin: 2px !important;
+}
